@@ -1,6 +1,6 @@
 # docker-parse
 
-Based on the work found [here]('https://github.com/yongjhih/docker-parse-server'), this repo is just a filtered view on how to set up a parse server for testing push notifications, mostly geared towards ios.
+Based on the work found [here](https://github.com/yongjhih/docker-parse-server), this repo is just a filtered view on how to set up a parse server for testing push notifications, mostly geared towards ios.
 
 ## Prerequisites
 * Docker
